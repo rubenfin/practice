@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "next": "^10.8.3",
+    "react": "^10.8.3",
+    "react-dom": "^10.8.3",
     "pnpm": "^9.11.0"
   }
 }
